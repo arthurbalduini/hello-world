@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 
-At this momento, I have no idea of what I'm doing.
+At this moment, I have no idea of what I'm doing.
